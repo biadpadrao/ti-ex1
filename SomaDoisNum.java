@@ -3,7 +3,6 @@ import java.util.*;
 class SomaDoisNum {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int num1, num2, soma;
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Digite um número");
@@ -14,8 +13,7 @@ class SomaDoisNum {
 		//somar
 		soma = num1 + num2;
 		
-		//mostrar na tela
+		//mostrar na tela o resultado da soma
 		System.out.println("Soma:" + soma);
 	}
-
 }
